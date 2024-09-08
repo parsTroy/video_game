@@ -1,0 +1,30 @@
+* {
+  background-color: black;
+}
+
+#main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  color: grey;
+  font-size: xx-large;
+  font-weight: bolder;
+  font-size: 10rem;
+
+  text-transform: uppercase;
+}
+
+button {
+  background-color: grey;
+  height: 50px;
+  width: 250px;
+
+  text-transform: uppercase;
+
+  border-radius: 5px;
+  border: solid grey;
+}
